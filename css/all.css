@@ -1,0 +1,16 @@
+.table th.click {
+    cursor: pointer;
+  }
+  
+  .table th.click {
+    cursor: pointer;
+  }
+  
+  .icon {
+    display: inline-block;
+    transition: all 0.5s;
+  }
+  .icon.inverse {
+    transform: rotate(180deg);
+    transition: all 0.5s;
+  }
